@@ -1,0 +1,17 @@
+{
+  "name": "image-rersizer-electron",
+  "productName": "Image Rersizer",
+  "version": "1.0.0",
+  "description": "App to resize image dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Linn Khant Thu",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^27.0.4",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
